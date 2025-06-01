@@ -4,8 +4,8 @@
 
 Highlights:
 
-- 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
-- ✨ Create, Update, and Delete Notes with Title & Description
+- 🧱 Full-Stack App built with the MERN Stack (MongoDB, Express, React, Node)
+- ✨ Create, Update, and Delete Notes with Title and Description
 - ⚙️ Rate Limiting with Upstash Redis
 - 🚀 Completely Responsive UI
 - 📦 Deployment using render.com
