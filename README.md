@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Highlights:
+Highlights :
 
 - 🧱 Full-Stack App built with the MERN Stack (MongoDB, Express, React, Node)
 - ✨ Create, Update, and Delete Notes with Title and Description
